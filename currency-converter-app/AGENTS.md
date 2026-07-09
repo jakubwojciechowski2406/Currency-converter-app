@@ -30,10 +30,10 @@
 - Start dev server: pnpm dev
 - Open http://localhost:3000
 
-## Podgląd na żywo
+## Live Preview
 
-Dostępna publicznie wersja aplikacji (hostowana na Vercel):
+The application is publicly available (hosted on Vercel):
 
 https://currency-converter-app-delta-livid.vercel.app/
 
-Możesz otworzyć link, aby przetestować przelicznik, wykresy kursów oraz funkcje trybu podróżnika i ulubionych par walut.
+Open the link to try the currency converter, view the 30-day exchange chart, and use Traveler Mode and favorite currency pairs.
