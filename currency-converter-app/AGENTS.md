@@ -29,3 +29,8 @@
 - Install dependencies: pnpm install
 - Start dev server: pnpm dev
 - Open http://localhost:3000
+
+## Podgląd na żywo
+Dostępna publicznie wersja aplikacji (hostowana na Vercel):
+🔗 https://currency-converter-app-delta-livid.vercel.app/
+Możesz otworzyć link, aby przetestować przelicznik, wykresy kursów oraz funkcje trybu podróżnika i ulubionych par walut.
